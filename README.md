@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **my card game.**
 
-- 📫 How to reach me **nourgaser.com**
+- 📫 How to reach me: <a href="https://cv.nourgaser.com">**nourgaser.com**</a>.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nourgaser&show_icons=true&locale=en&layout=compact" alt="nourgaser" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nourgaser&show_icons=true&locale=en" alt="nourgaser" /></p>
+
+- This is just a temporary README.md; I'm working on something more creative that I'll hopefully replace this one with soon. ;)
