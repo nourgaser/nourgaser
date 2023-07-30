@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nour Gaser</h1>
-<h3 align="center">A full-stack web-developer who listens to music and creates video games in his free time.</h3>
+<h3 align="center">A software developer with a strong passion fot game development and design, with a background in full-stack web development.</h3>
 
 - 🔭 I’m currently working on **a risk-management, turn-based, card game.**
 
